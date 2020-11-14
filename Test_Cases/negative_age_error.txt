@@ -1,0 +1,22 @@
+{
+  "messageVersion": "1.0",
+  "invocationSource": "DialogCodeHook",
+  "userId": "John",
+  "sessionAttributes": {},
+  "bot": {
+    "name": "RoboAdvisor",
+    "alias": "$LATEST",
+    "version": "$LATEST"
+  },
+  "outputDialogMode": "Text",
+  "currentIntent": {
+    "name": "RecommendPortfolio",
+    "slots": {
+      "firstName": "John",
+      "age": "-2",
+      "riskLevel": "Low",
+      "investmentAmount": "4000"
+    },
+    "confirmationStatus": "None"
+  }
+}
