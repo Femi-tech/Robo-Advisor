@@ -333,8 +333,5 @@ Perform the following tasks:
 
 * For the _Challenge_ section, create a new Jupyter notebook named `crypto_clustering_sm.ipynb` and include the necessary code to import the additional required library.
 
-* Create and upload a repository with the above files to GitHub and post a link in BootCamp Spot.
+* Create and upload a repository with the above files to GitHub and you are done!
 
----
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
